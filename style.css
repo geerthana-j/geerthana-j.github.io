@@ -13,7 +13,7 @@ h1 {
 }
 
 .orange-color {
-  color:chocolate;
+  color:rgb(134, 46, 139);
 }
 
 .flexible-container {
@@ -39,7 +39,7 @@ h1 {
 #linkedin-button ,#drive-button, #git-button{
   text-decoration: none;
   /* background-color: orange; */
-  background-image: linear-gradient(chocolate, tomato);
+  background-image: linear-gradient(rgb(134, 46, 139), rgb(138, 108, 149));
   color: white;
   font-weight: 700;
   padding: 10px 20px;
@@ -48,7 +48,7 @@ h1 {
  
 
 .top-banner {
-  background-image: url("images/top-banner.png");
+  /* background-image: url("images/top-banner-green.jpg"); */
   background-repeat: no-repeat;
   box-sizing: border-box;
 }
@@ -61,7 +61,7 @@ h1 {
 }
 
 .experience-area {
-  background-image: url("images/exp-bg.png");
+  /* background-image: url("images/exp-bg.png"); */
   background-repeat: no-repeat;
   background-position: left;
   box-sizing: border-box;
@@ -81,7 +81,7 @@ h1 {
 #full-stack-experience {
 
   border-left: 7px solid;
-  border-image: linear-gradient(purple, tomato);
+  border-image: linear-gradient(blue, cyan);
   border-image-slice: 1;
 }
 
